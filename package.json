@@ -1,0 +1,11 @@
+{
+  "name": "basic-pwa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mariajosealvarez/basic-pwa.git",
+  "author": "mariajosealvarez <mariajose.230985@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "serve": "^11.2.0"
+  }
+}
